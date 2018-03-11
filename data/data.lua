@@ -1,0 +1,1 @@
+text = "Hello, MakeLove user!  Hopefully this make script helps make your day brighter."
